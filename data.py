@@ -79,7 +79,7 @@ representing the number of key value
 pairs in data1
 Lines 2 to n1+1: Two integers k v
 per line representing the key and
-value (these n1 key value pairs are
+value (thesen1 key value pairs are
 added to data1)
 Line n1+2: A positive integer n2
 representing the number of key value
@@ -119,4 +119,4 @@ if __name__ == '__main__':
     print(data1)
     print(data2)
     print(dup)
-print("hello")
+
